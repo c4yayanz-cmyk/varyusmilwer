@@ -356,9 +356,9 @@ def banner():
         {W}I      {R}M   {W}Y      {R}S   {W}M {R}X    D
 {W}─────────────────────────────────────────────{W}
 {W}[{G}•{W}]{G} SCRIPT {W}:{G} DK
-{W}[{G}•{W}]{G} FACEBOOK {W}:{G} Zk Volkschev Pogi
-{W}[{G}•{W}]{G} GITHUB   {W}:{G} secret
-{W}[{G}•{W}]{G} TOOL     {W}:{G} Auto Create FRA
+{W}[{G}•{W}]{G} FACEBOOK {W}:{G} SUDOPY
+{W}[{G}•{W}]{G} GITHUB   {W}:{G} MALW4RE
+{W}[{G}•{W}]{G} TOOL     {W}:{G} malw4re
 {W}─────────────────────────────────────────────{W}""")
 
 def linex():
