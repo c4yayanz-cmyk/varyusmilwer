@@ -260,9 +260,9 @@ first_names = [
     "Josie", "Roel", "Aj", "Albert", "Rico", "Fatima", "Arvin", "Ernie", "Christian", "Nicolas",
     "Benjamin", "Ben", "Melchor", "Kyle", "Johnpaul", "Danilo", "Ashley", "James", "Juan", "Cedric",
     "Angel", "Charlene", "Riley", "Aliyah", "Nicole", "Paula", "Leah", "Florence", "Lyka", "Sofia",
-    "Sophia", "Elaine", "Erica", "Thea", "Gabrielle", "Bea"
+    "Sophia", "Elaine", "Erica", "Thea", "Gabrielle", "Bea" , "Mike" , "Kyle" , "Dionesio" , "Jr" , "Nicole" , "Karla"
 ]
-surnames = ["Cruz", "Valdez", "Agustin", "Narciso", "Garcia", "Bernardino", "Rosales", "Perez", "Castro", "Delos Reyes",]
+surnames = ["Cruz", "Valdez", "Agustin", "Miranda", "Garcia", "Bernardino", "Rosales", "Perez", "Castro", "Delos Reyes", "Delos Reyes", "Dizon", "Marquez"]
 
 def get_bd_name():
     return random.choice(first_names), random.choice(surnames)
@@ -355,10 +355,10 @@ def banner():
 ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝                          
         {W}I      {R}M   {W}Y      {R}S   {W}M {R}X    D
 {W}─────────────────────────────────────────────{W}
-{W}[{G}•{W}]{G} SCRIPT {W}:{G} DK
+{W}[{G}•{W}]{G} SCRIPT {W}:{G} UNKNOWN
 {W}[{G}•{W}]{G} FACEBOOK {W}:{G} SUDOPY
-{W}[{G}•{W}]{G} GITHUB   {W}:{G} MALW4RE
-{W}[{G}•{W}]{G} TOOL     {W}:{G} malw4re
+{W}[{G}•{W}]{G} VIRUS   {W}:{G} MALW4RE
+{W}[{G}•{W}]{G} ACTIVATE    {W}:{G} malw4re
 {W}─────────────────────────────────────────────{W}""")
 
 def linex():
