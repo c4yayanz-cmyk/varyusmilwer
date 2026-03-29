@@ -252,17 +252,17 @@ for generate in range(100):
 
 # Name and password generation
 first_names = [
-    "Ayesha", "Mark", "John", "Althea", "Princess", "Mary Ann", "Joyjoy", "Kurt", "Jewel", "Rosemarie",
-    "Beatrish", "Trisha", "Rose", "Lenlen", "Analyn", "Nelson", "Jeff", "Mikaela", "Junjun", "Emman",
+    "Ayesha", "Mark", "Meyka", "Althea", "Princess", "Princess", "Joyjoy", "Kurt", "Jewel", "Rose",
+    "Beatrish", "Trisha", "Rose", "Along", "Analyn", "Nelson", "Jeff", "Mikaela", "Junjun", "Emman",
     "Anne", "Jenny", "Danilo", "Miguel", "Precious", "Allan", "Joshua", "Junmar", "Jhayjhay", "Ronjie",
     "Marvin", "Kenneth", "Rommel", "Jean", "Anghela", "Roland", "Jhanne", "Juvielyn", "Gerard", "Ryan",
     "Joanel", "Judy", "Dianne", "Patricia", "Patrick", "Pia", "Chelsea", "Ryza", "May", "Mae",
-    "Josie", "Roel", "Aj", "Albert", "Rico", "Fatima", "Arvin", "Ernie", "Christian", "Nicolas",
+    "Josie", "Roel", "Aj", "Albert", "Rico", "Julia", "Arvin", "Ernie", "Christian", "Nicolas",
     "Benjamin", "Ben", "Melchor", "Kyle", "Johnpaul", "Danilo", "Ashley", "James", "Juan", "Cedric",
-    "Angel", "Charlene", "Riley", "Aliyah", "Nicole", "Paula", "Leah", "Florence", "Lyka", "Sofia",
-    "Sophia", "Elaine", "Erica", "Thea", "Gabrielle", "Bea" , "Mike" , "Kyle" , "Dionesio" , "Jr" , "Nicole" , "Karla"
+    "Angel", "Mia", "Riley", "Aliyah", "Nicole", "Paula", "Leah", "Florence", "Lyka", "Sofia",
+    "Carla", "Elaine", "Erica", "Thea", "Sandra", "Bea" , "Mike" , "Kyle" , "Dionesio" , "Jr" , "Nicole" , "Karla"
 ]
-surnames = ["Cruz", "Valdez", "Agustin", "Miranda", "Garcia", "Bernardino", "Rosales", "Perez", "Castro", "Delos Reyes", "Delos Reyes", "Dizon", "Marquez"]
+surnames = ["Antonio", "Cardillo", "Agustin", "Miranda", "Garcia", "Bernardino", "Salongga", "Rosales", "Perez", "Lagare", "Delos Reyes", "Reyes", "Dizon", "Marquez"]
 
 def get_bd_name():
     return random.choice(first_names), random.choice(surnames)
